@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab3.2.3.TabsAndSwipe</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Лента</string>
+    <string name="title_section2">Фото</string>
+    <string name="title_section3">Карта</string>
+</resources>
